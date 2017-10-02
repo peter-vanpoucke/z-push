@@ -1,2 +1,15 @@
 config.php
 policies.ini
+autodiscover/config.php
+backend/caldav/config.php
+backend/carddav/config.php
+backend/combined/config.php
+backend/imap/config.php
+backend/ipcmemcached/config.php
+backend/kopano/config.php
+backend/ldap/config.php
+backend/maildir/config.php
+backend/searchldap/config.php
+backend/sqlstatemachine/config.php
+backend/vcarddir/config.php
+
